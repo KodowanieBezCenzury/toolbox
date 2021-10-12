@@ -1,6 +1,6 @@
 # Git stanard configuration
 Configuration script: [configure.sh](./configure.sh)
-## Pomocne opcje
+## Helpful options
 ```bash
 # default editor
 git config --global core.editor "atom --wait"
