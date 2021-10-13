@@ -1,4 +1,4 @@
-# Git stanard configuration
+# Git standard configuration
 Configuration script: [configure.sh](./configure.sh)
 ## Helpful options
 ```bash
