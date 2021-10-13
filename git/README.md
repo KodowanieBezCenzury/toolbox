@@ -1,5 +1,4 @@
-# Git standard configuration
-Configuration script: [configure.sh](./configure.sh)
+# Git tips and tricks
 ## Helpful options
 ```bash
 # default editor
@@ -26,11 +25,15 @@ feel free to be detailed.
 ### Nice Git aliases
 * [10-git-aliases](https://snyk.io/blog/10-git-aliases-for-faster-and-productive-git-workflow/) - nice place to learn aliases
 * [SFW gitkurka](https://github.com/szpak/gitkurka/) bunch of useful aliases
-* [must-have-git-aliases-advanced-examples](https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - some advanced materials
+
 ### Git tips and tricks
 * [Fireship Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) - how to make your life easier with Git
 * [git-tricks](https://solidsoft.wordpress.com/tag/git-tricks/) - good to know tricks
+
 ### When something goes wrong
 * [Oh oh](https://ohshitgit.com/en) - how to leverage Git to clean up own mess 😎
 ### Working with large files
 * [handling-large-files-with-lfs](https://www.git-tower.com/learn/git/faq/handling-large-files-with-lfs/)
+
+# Configuration script
+Configuration script: [configure.sh](./configure.sh)
